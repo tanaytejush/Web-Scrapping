@@ -28,3 +28,8 @@ Run the cells in order. The notebook downloads the page live, so it needs an int
 ## Note
 
 The target page is rendered by a JavaScript framework (Next.js). If a plain `requests` call returns incomplete data, a headless browser such as Selenium or Playwright is the next step.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
